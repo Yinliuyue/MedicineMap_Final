@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": "user123",
+        "rating": 5,
+        "comment": "系统非常有帮助。",
+        "feedback_type": "功能建议",
+        "contact_info": "gAAAAABnSIRc_nJqK88UoIa27j0ks4MrwpgReUV5t-oczRjSDSHjwjzaIls98-eqrWuvg0N9YIvdKolXCgh7yNjQThC_qpmbvHbhGhZEgXSajIkEnkzy0Rw=",
+        "timestamp": "2024-11-28T14:55:24.465562Z"
+    },
+    {
+        "user_id": "user1234",
+        "rating": 5,
+        "comment": "系统非常有帮助。",
+        "feedback_type": "功能建议",
+        "contact_info": "gAAAAABnSIZrHs6lUAiwpmErfF33WwrEesY4fNs58QnSJykT8Wqy7ObLUYfyGaAMCK_4Q7v39PlDqsXsAKNyJSdE1CQ6hmTqWrNtPTGHXxK8JY9qkxnaGVE=",
+        "timestamp": "2024-11-28T15:04:11.350907Z"
+    }
+]
